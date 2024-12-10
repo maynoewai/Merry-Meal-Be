@@ -1,6 +1,6 @@
 Merry Meal BE
-How to run 
-Setup up postgres db 
-Fill As per as .env file
-npm i
-npm run start
+1. How to run 
+2. Setup up postgres db 
+3. Fill As per as .env file
+4. npm i
+5. npm run start
